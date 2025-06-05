@@ -1,4 +1,3 @@
-# covid_analysis_project
 # Covid-19 Data Analysis Project
 
 This repository contains a Python-based data analysis project focusing on Covid-19 data. The project reads and analyzes real-world Covid-19 datasets to extract meaningful insights through data visualization and statistical summaries.
