@@ -28,23 +28,28 @@ The project uses the publicly available Covid-19 dataset from:
 1. Clone the repository:
    ```bash
    git clone <repository-url>
-Install required dependencies:
-
-bash
-Copy
-Edit
+   
+## Install required dependencies:
 pip install pandas matplotlib seaborn
-Run the analysis script:
 
-bash
-Copy
-Edit
+## Run the analysis script:
 python covid_analysis.py
-Purpose
+
+
+## Purpose
 This project aims to provide an easy-to-understand example of how to analyze and visualize Covid-19 data using Python, which can be extended or adapted for more advanced data science and public health research.
 
 Feel free to customize or expand the project as per your requirements!
 
-pgsql
-Copy
-Edit
+## pgsql
+
+You just need to replace `<repository-url>` with your actual GitHub repo link after creating it.
+
+If you want, I can also help you with instructions on how to create the GitHub repo and upload this README and your code. Just let me know!
+
+
+
+
+
+
+
