@@ -45,8 +45,6 @@ Feel free to customize or expand the project as per your requirements!
 
 You just need to replace `<repository-url>` with your actual GitHub repo link after creating it.
 
-If you want, I can also help you with instructions on how to create the GitHub repo and upload this README and your code. Just let me know!
-
 
 
 
